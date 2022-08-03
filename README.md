@@ -4,11 +4,11 @@ Welcome to the PM League's wiki!
 
 # Project Management (PM)
 ## Pages
-* [Project Management Concepts](PM-Concepts)
-* [Project Management Processes](PM-Processes)
-* [EVM](EVM)
-* [Risk Management](Risk-Management)
-* [Project Portfolio Management](PPM)
+* [Project Management Concepts](https://github.com/PM-League/wiki/wiki/PM-Concepts)
+* [Project Management Processes](https://github.com/PM-League/wiki/wiki/PM-Processes)
+* [EVM](https://github.com/PM-League/wiki/wiki/EVM)
+* [Risk Management](https://github.com/PM-League/wiki/wiki/Risk-Management)
+* [Project Portfolio Management](https://github.com/PM-League/wiki/wiki/PPM)
 ## Sources
 * BS ISO 21500:2012 - Guidance on project management
 * BS ISO 21502:2020 - Project, programme and portfolio management — Guidance on project management
